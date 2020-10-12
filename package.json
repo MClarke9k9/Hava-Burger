@@ -1,28 +1,28 @@
 {
-  "name": "hava-burger",
-  "version": "1.0.0",
-  "description": "The app will store every burger in a database, whether devoured or not.",
-  "main": "npm start",
-  "dependencies": {
-    "console.table": "^0.10.0",
-    "express-handlebars": "^5.1.0",
-    "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "orm": "^5.0.5"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MClarke9k9/Hava-Burger.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MClarke9k9/Hava-Burger/issues"
-  },
-  "homepage": "https://github.com/MClarke9k9/Hava-Burger#readme"
+    "name": "hava-burger",
+    "version": "1.0.0",
+    "description": "The app will store every burger in a database, whether devoured or not.",
+    "main": "npm start",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "express-handlebars": "^5.1.0",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "orm": "^5.0.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MClarke9k9/Hava-Burger.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MClarke9k9/Hava-Burger/issues"
+    },
+    "homepage": "https://github.com/MClarke9k9/Hava-Burger#readme"
 }
